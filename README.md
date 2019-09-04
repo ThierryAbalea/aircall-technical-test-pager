@@ -2,6 +2,10 @@
 
 # Aircall Technical Test - Aircall Pager - Thierry ABALEA’s solution
 
+## Instructions
+
+[Original technical test instructions](INSTRUCTIONS.md)
+
 ## Prerequisites
 
 * Install [Node.js](https://nodejs.org). A good practice is to first install [nvm](https://github.com/nvm-sh/nvm) to be able to manage multiple Node.js version (via [brew](https://brew.sh/) or the [nvm script](https://github.com/nvm-sh/nvm#install--update-script))
