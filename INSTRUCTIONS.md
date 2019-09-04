@@ -1,4 +1,4 @@
-(source: https://github.com/aircall/technical-test-pager/blob/master/README.md)[https://github.com/aircall/technical-test-pager/blob/master/README.md]
+[source: https://github.com/aircall/technical-test-pager/blob/master/README.md](https://github.com/aircall/technical-test-pager/blob/master/README.md)
 
 # Aircall Technical Test - Aircall Pager
 
