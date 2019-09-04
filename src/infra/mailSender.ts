@@ -1,3 +1,5 @@
-export function sendMail(mail: import("../domain/Mail").Mail): Promise<void> {
-  throw new Error("NOT IMPLEMENTED");
+export async function sendMail(
+  mail: import("../domain/Mail").Mail,
+): Promise<void> {
+  console.log(`send mail ${JSON.stringify(mail)}`);
 }

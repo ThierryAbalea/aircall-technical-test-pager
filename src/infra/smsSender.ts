@@ -1,3 +1,3 @@
-export function sendSms(sms: import("../domain/Sms").Sms): Promise<void> {
-  throw new Error("NOT IMPLEMENTED");
+export async function sendSms(sms: import("../domain/Sms").Sms): Promise<void> {
+  console.log(`send sms ${JSON.stringify(sms)}`);
 }
